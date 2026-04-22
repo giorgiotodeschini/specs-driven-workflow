@@ -35,6 +35,9 @@ backlog
 ## Type
 [answer from question 1]
 
+## Dependencies
+[omit this section if no dependencies]
+
 ## Context
 [answer from question 2]
 

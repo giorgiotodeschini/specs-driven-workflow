@@ -56,6 +56,9 @@ backlog
 ## Type
 new component
 
+## Dependencies
+[omit this section if no dependencies]
+
 ## Component Spec
 **Name:** [answer 1]
 **Category:** [answer 2]
@@ -116,6 +119,9 @@ backlog
 ## Type
 modify component
 
+## Dependencies
+[omit this section if no dependencies]
+
 ## Component Spec
 **Component:** [answer 2]
 
@@ -172,6 +178,9 @@ backlog
 ## Type
 bugfix
 
+## Dependencies
+[omit this section if no dependencies]
+
 ## Component Spec
 **Component:** [answer 2]
 
@@ -223,6 +232,9 @@ backlog
 
 ## Type
 [refactor or spike]
+
+## Dependencies
+[omit this section if no dependencies]
 
 ## Context
 [answer 1]

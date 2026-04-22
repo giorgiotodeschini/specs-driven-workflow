@@ -15,6 +15,15 @@ stop immediately and report: "Task not found: specs/tasks/backlog/$ARGUMENTS.md"
 
 Read @specs/tasks/backlog/$ARGUMENTS.md.
 
+If the ## Dependencies section is present and not empty,
+for each dependency listed check if the corresponding file exists
+in @specs/tasks/done/.
+If any dependency file is NOT in specs/tasks/done/,
+stop immediately and report:
+"Task cannot be activated. The following dependencies are not done yet:
+[list of blocking task names]
+Complete them first."
+
 Do NOT implement or develop the implementation plan yet.
 
 Before analyzing, ensure you have read the project configuration file
